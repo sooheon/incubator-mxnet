@@ -284,7 +284,7 @@ Gluon support will come later and may or may not be built on the Scala gluon API
 
 ## Architecture & Design
 
-See the Confluence page: https://cwiki.apache.org/confluence/display/MXNET/MXNet+Clojure
+See the Confluence page: https://cwiki.apache.org/confluence/display/MXNET/Clojure
 
 ## Building and Deploying Jars
 
